@@ -1,7 +1,7 @@
 # HTML Practice
 
 A collection of my HTML practice exercises as I learn web developmemt.
-This repo Documents my progress from basic HTML concepts to more structured web pages.
+This repository Documents my progress from basic HTML concepts to more structured web pages.
 
 ## Topics Coverd
 - HTML basics
@@ -23,4 +23,4 @@ Day16/
 ...
 
 ## Purpose
-The goal pf this Repo is to build a Strong Foundation in HTML through Consistent daily practice.
+The goal of this Repository is to build a Strong Foundation in HTML through Consistent daily practice.
